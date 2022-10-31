@@ -81,8 +81,7 @@
 Работа с Cisco Packet Tracer
 
 * [Отчет](https://github.com/Nastya348738/Laboratory_work-Tsatsurina/blob/main/ИТ_Цацурина.docx)
-* [Сценарий](https://github.com/Nastya348738/Laboratory_work-Tsatsurina/blob/main/ИТ_ЛР3_Сценарий.pka)
-* 
+* [Сценарий](https://github.com/Nastya348738/Laboratory_work-Tsatsurina/blob/main/ИТ_ЛР3_Сценарий.pka) 
 ## ✅Экзаменационный билет №06
 Ответы на выбранный билет:
 
