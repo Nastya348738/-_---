@@ -8,7 +8,7 @@
 * Создание личной страницы.
 * Размещение кода исходной страницы в репозитории.
 * Размещение странички на хостинге.
-* [Веб-страничка с описанием лабораторных работ доступна по ссылке](https://Laboratory_work-Tsatsurina/Отчет/) 
+* [Веб-страничка с описанием лабораторных работ доступна по ссылке](https://Nastya348738.github.io/Отчет/) 
 ## ✅Лабораторная работа №2
 
 ### Описание веб-приложения "Tanks of Misery"
@@ -79,8 +79,8 @@
 
 Работа с Cisco Packet Tracer
 
-* [Отчет](https://github.com/Nastya348738/Laboratory_work-Tsatsurina/blob/main/ИТ_Цацурина.docx)
-* [Сценарий](https://github.com/Nastya348738/Laboratory_work-Tsatsurina/blob/main/ИТ_ЛР3_Сценарий.pka) 
+* [Отчет](https://github.com/Nastya348738/Nastya348738.github.io/blob/main/ИТ_Цацурина.docx)
+* [Сценарий](https://github.com/Nastya348738/Nastya348738.github.io/blob/main/ИТ_ЛР3_Сценарий.pka) 
 ## ✅Экзаменационный билет №06
 Ответы на выбранный билет:
 
