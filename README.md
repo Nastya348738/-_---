@@ -85,3 +85,4 @@
 Ответы на выбранный билет:
 
 [Билет №6](https://github.com/stankin/inet-2022/wiki/exam06)
+[Ссылка на diff](https://github.com/stankin/inet-2022/wiki/exam06/_compare/a0446e23a81a66e4bf440d7b1da09dfb5347027d...af273667264f6a80048076cac3fd5af5fa06e0a4)
